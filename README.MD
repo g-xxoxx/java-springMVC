@@ -1,6 +1,6 @@
 # Website LaptopShop
 ## Backend: 
-+Spring Framework, MySQL
+Spring Framework, MySQL
 -
 ### Description:
 +Use Spring Boot: configure and run Spring projects quickly
