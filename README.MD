@@ -1,7 +1,8 @@
 # Website LaptopShop
--Backend: 
+## Backend: 
 +Spring Framework, MySQL
--Description:
+-
+### Description:
 +Use Spring Boot: configure and run Spring projects quickly
 +Use Spring JPA: write query databases according to ORM (object relational mapping)
 +Use Spring MVC: write code in MVC model with view as JSP, using JSTL (Jakarta Standard Tag Library)
